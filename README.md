@@ -1,2 +1,1 @@
-# ngentotvideo
-ngentotvideo
+# [ngentotvideo](https://ngentotvideo.pages.dev)
